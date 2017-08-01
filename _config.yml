@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+# Setup
+title:        Pacific
+tagline:      ICO
+baseurl:      "axsavage/pacific"
+paginate:     1
+
+# About/contact
+author:
+  name:       axsavage
+  url:        http://github.com/axsavage/pacific 
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
